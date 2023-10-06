@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.films_primary-features p{
+.intro_primary-features p{
     color: #000;
     font-family: Roboto;
     font-size: 20px;
@@ -12,7 +12,7 @@
     font-weight: 400;
 }
 
-.films_primary-content h1{
+.intro_primary-content h1{
     color: #000;
     font-family: Roboto Slab;
     font-size: 80px;
@@ -20,7 +20,7 @@
     font-weight: 700;
 }
 
-.films_primary-content p{
+.intro_primary-content p{
     color: #000;
     font-family: Roboto;
     font-size: 20px;
